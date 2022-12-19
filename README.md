@@ -1,6 +1,3 @@
 # Django Practice Assessment
 
-__Name:__
-
-__Computing ID:__
-
+This is my first assignment creating a website using Django. I was tasked with created a polls app.
